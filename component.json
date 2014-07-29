@@ -1,8 +1,8 @@
 {
   "name": "moment.twitter",
-  "repo": "hijonathan/moment.twitter",
+  "repo": "RomanovRoman/moment.twitter",
   "description": "An extension to moment.js that formats dates like Twitter",
-  "version": "0.1.2",
+  "version": "0.2.1",
   "keywords": [],
   "dependencies": {},
   "development": {},
