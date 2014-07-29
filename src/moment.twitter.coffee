@@ -41,9 +41,9 @@ initialize = (moment) ->
             if diff < week
                 unit = 'days'
             else
-                return @format 'M/D/YY'
+                return @format 'D/M/YY'
         else
-            return @format 'MMM D'
+            return @format 'D MMMM'
 
         unless num and unit
             # Format the number

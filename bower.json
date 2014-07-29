@@ -1,9 +1,10 @@
 {
-  "name": "moment.twitter",
+  "name": "moment.twitter.ru",
   "version": "0.2.0",
-  "homepage": "https://github.com/hijonathan/moment.twitter",
+  "homepage": "https://github.com/RomanovRoman/moment.twitter",
   "authors": [
-    "Jonathan Kim <me@jonathan-kim.com>"
+    "Jonathan Kim <me@jonathan-kim.com>",
+    "Roman Romanov <romanovroman@yandex.ru>"
   ],
   "description": "An extension to moment.js that formats dates like Twitter",
   "main": "moment-twitter.js",

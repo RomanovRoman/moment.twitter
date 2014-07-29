@@ -50,10 +50,10 @@
         if (diff < week) {
           unit = 'days';
         } else {
-          return this.format('M/D/YY');
+          return this.format('D/M/YY');
         }
       } else {
-        return this.format('MMM D');
+        return this.format('D MMMM');
       }
       if (!(num && unit)) {
         num = moment.duration(diff)[unit]();
